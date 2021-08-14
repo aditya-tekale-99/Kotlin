@@ -1,2 +1,2 @@
 # Kotlin
-fun mini projects in Kotlin
+Fun mini projects in Kotlin
