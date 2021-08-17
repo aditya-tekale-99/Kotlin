@@ -35,7 +35,7 @@ class Calculator(val name: String) {
 }
   
 fun main() {
-  var myCalculator = Calculator("Adi's")
+  var myCalculator = Calculator("Adi")
   println(myCalculator.add(5, 7))
   println(myCalculator.subtract(45, 11))
   println(myCalculator.divide(8, 0))
